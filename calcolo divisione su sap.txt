@@ -1,5 +1,6 @@
 questa è la prima modifica ho aggiunto la riga in testa al file
 la funzione che assegna la divisione è "zz_ass_plant_mitt/vett/itin"
+questa è la seconda modifica ho aggiunto una riga in mezzo
 questa funzione è a sua volta richiamata dalla funzione "USEREXIT_SOURCE_DETERMINATION" che l'unica attività che faà è richiamare la funzione sopra, ma è la funzione che viene effettivamente chiamata dalla userexit
 le due funzioni di cui sopra si trovano nella include MV45AFZB
 
